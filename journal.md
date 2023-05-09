@@ -1,6 +1,7 @@
 # This is my super cool paper!
 Written by: ME !
 My affiliation: Marburg
+And all of my friends who are great.
 
 #Introduction
 
